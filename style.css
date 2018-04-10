@@ -1,0 +1,19 @@
+body{
+	font-family: 'Helvetica';
+}
+
+form{
+	border-style: solid;
+	border-color: purple;
+	float: left;
+	padding: 40px;
+	display: table-cell;
+	width: 25%;
+	margin: auto;
+	text-align: justify;	
+	line-height: 30px;
+}
+
+h1 {
+	color: purple;
+}
